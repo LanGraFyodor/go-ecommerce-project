@@ -1,4 +1,4 @@
-##**Ecommerce With Golang Project**
+## **Ecommerce With Golang Project**
 **Code-Along video series on Youtube**
 
 ```bash
